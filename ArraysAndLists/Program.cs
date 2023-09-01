@@ -48,11 +48,11 @@ namespace ArraysAndLists
 
             foreach (int number in evens)
             {
-                Console.WriteLine(number);
+                Console.WriteLine($"The number {number} is even");
             }
             foreach(int number in odds)
             {
-                Console.WriteLine(number);
+                Console.WriteLine($"The number {number} is odd");
             }
 
 
